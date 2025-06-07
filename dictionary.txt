@@ -1,0 +1,13 @@
+apple
+ball
+cat
+dog
+elephant
+fox
+goat
+horse
+time
+ear
+rose
+topper
+rain
